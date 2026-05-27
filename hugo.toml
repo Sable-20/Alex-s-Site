@@ -6,6 +6,10 @@ theme = 'dream'
 locale = 'en-US'
 enableRobotsTXT = true
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
 # zenMode = true
  
