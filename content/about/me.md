@@ -6,4 +6,4 @@ draft: true
  
 Hi, my name is Alex K Hedges.
  
-This is my blog.
+This is my blog and my art portfolio.

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Muscle Man on Alex K Hedges</title>
+		<link>http://localhost:1313/tags/muscle-man/</link>
+		<description>Recent content in Muscle Man on Alex K Hedges</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 28 May 2026 20:44:01 -0700</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/muscle-man/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Muscle Man</title>
+				<link>http://localhost:1313/posts/muscle-man/</link>
+				<pubDate>Thu, 28 May 2026 20:44:01 -0700</pubDate>
+				<guid>http://localhost:1313/posts/muscle-man/</guid>
+				<description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

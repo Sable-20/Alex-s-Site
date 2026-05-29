@@ -2,21 +2,22 @@
 title: Artistry
 date: 2026-05-26T17:18:33-07:00
 lastmod: 2026-05-26T17:18:33-07:00
-author: Author Name
+author: Alex K Hedges
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /img/cover.jpg
+cover: /img/spirals.jpg
+covercaption: A spirally painting done by Alex K Hedges
 # covercaption: a description of the cover image
 # images:
 #   - /img/cover.jpg
 categories:
-  - category1
+  - artistry
 tags:
-  - tag1
-  - tag2
+  - large canvas
+  - spirals
 # nolastmod: true
 # math: true
-draft: true
+draft: false
 ---
 
 Cut out summary from your post content here.
